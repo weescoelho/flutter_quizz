@@ -1,16 +1,42 @@
-# flutter_quizz
+<div align="center" id="top"> 
+  <img src="./.github/readme_app_flutter.png" alt="Flutter_quizz" />
 
-A new Flutter project.
+&#xa0;
 
-## Getting Started
+</div>
 
-This project is a starting point for a Flutter application.
+<h1 align="center">Flutter Quiz</h1>
 
-A few resources to get you started if this is your first Flutter project:
+<p align="center">
+  <img alt="Principal linguagem do projeto" src="https://img.shields.io/github/languages/top/weescoelho/flutter_quizz?color=56BEB8">
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+  <img alt="Quantidade de linguagens utilizadas" src="https://img.shields.io/github/languages/count/weescoelho/flutter_quizz?color=56BEB8">
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+  <img alt="Tamanho do repositório" src="https://img.shields.io/github/repo-size/weescoelho/flutter_quizz?color=56BEB8">
+
+</p>
+
+<p align="center">
+  <a href="#dart-sobre">Sobre</a> &#xa0; | &#xa0; 
+  <a href="#rocket-tecnologias">Tecnologias</a> &#xa0; | &#xa0;
+  <a href="https://github.com/weescoelho" target="_blank">Autor</a>
+</p>
+
+<br>
+
+## :dart: Sobre
+
+Projeto desenvolvido no curso de Flutter do Maximilian Schwarzmüller na Udemy.
+Consiste em um app simples de perguntas e respostas a respeito do Flutter.
+
+## :rocket: Tecnologias
+
+As seguintes ferramentas foram usadas na construção do projeto:
+
+- [Flutter](https://flutter.dev/)
+
+Feito com :heart: por <a href="https://github.com/weescoelho" target="_blank">Weslley Coelho</a>
+
+&#xa0;
+
+<a href="#top">Voltar para o topo</a>
